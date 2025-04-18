@@ -1,1 +1,1 @@
-# nhom1
+# Nhóm 1 - Thực tập cơ sở
